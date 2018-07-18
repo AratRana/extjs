@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /springwes
+    
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp    
